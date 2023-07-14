@@ -1,0 +1,42 @@
+{
+  "laptops": [
+    {
+      "name": "Macbook Pro",
+      "description": "nice",
+      "price": "1000",
+      "brand": "APPLE",
+      "image": "https://asiastore.kg/image/cache/catalog/mac/macbookpro1416m2promax/spacegray/mbp16-spacegray-select-202301-670x540.jpeg",
+      "win-code": 1.2312312312487237e+24,
+      "id": 1
+    },
+    {
+      "name": "Macbook Pro",
+      "description": "nice",
+      "price": "2000",
+      "brand": "APPLE",
+      "image": "https://asiastore.kg/image/cache/catalog/mac/macbookpro1416m2promax/spacegray/mbp16-spacegray-select-202301-670x540.jpeg",
+      "win-code": 1.2312312312487237e+24,
+      "id": 2
+    },
+    {
+      "name": "Macbook Pro",
+      "description": "nice",
+      "price": "3000",
+      "brand": "APPLE",
+      "image": "https://asiastore.kg/image/cache/catalog/mac/macbookpro1416m2promax/spacegray/mbp16-spacegray-select-202301-670x540.jpeg",
+      "win-code": 1.2312312312487237e+24,
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "name": "Macbook Pro",
+      "description": "nice",
+      "price": "2000",
+      "trend": "APPLE",
+      "image": "https://asiastore.kg/image/cache/catalog/mac/macbookpro1416m2promax/spacegray/mbp16-spacegray-select-202301-670x540.jpeg",
+      "win-code": 1.2312312312487237e+24,
+      "id": 1
+    }
+  ]
+}
